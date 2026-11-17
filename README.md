@@ -15,6 +15,8 @@
 ### 开始
 
 ```bash
+git clone https://github.com/JumpEggKiller/geforce-linux-p2p.git
+cd geforce-linux-p2p
 bash scripts/fetch-upstream.sh bar1 driver
 bash scripts/inspect.sh
 sudo upstream/bar1/scripts/geforce-bar1-resize check --vram 24G
