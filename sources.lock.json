@@ -1,0 +1,10 @@
+{
+  "bar1": {
+    "url": "https://github.com/noon-at-cgn/geforce-bar1-resize.git",
+    "commit": "53466608917ff5d8c660eefcee7c7e6c4261ef1b"
+  },
+  "driver": {
+    "url": "https://github.com/noon-at-cgn/geforce-dynbar1-p2p.git",
+    "commit": "ab0ee7d48e56c80a04e92d3fc3438d946d3169df"
+  }
+}
